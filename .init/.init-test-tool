@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/chronotrack-time-management-system-197429-197438/chronose_frontend"
+}
